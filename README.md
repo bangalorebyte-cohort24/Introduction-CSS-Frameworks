@@ -2,8 +2,8 @@
 Introduction to CSS frameworks
 
 ## Bootstrap
-Reference - https://getbootstrap.com/
-Tutorial - https://www.youtube.com/watch?v=5GcQtLDGXy8
+* Reference - https://getbootstrap.com/
+* Tutorial - https://www.youtube.com/watch?v=5GcQtLDGXy8
 
 ## Assignment
 * Try and replicate the webpage shown in the link https://getbootstrap.com/docs/4.3/examples/blog/
